@@ -1,0 +1,23 @@
+{
+  "name": "dockmin",
+  "version": "1.0.0",
+  "description": "Administration panel for Docker Swarm",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DJBnjack/dockmin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DJBnjack/dockmin/issues"
+  },
+  "homepage": "https://github.com/DJBnjack/dockmin#readme",
+  "dependencies": {
+    "express": "^4.15.0"
+  }
+}
